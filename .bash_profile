@@ -20,7 +20,7 @@ echo "Hello ${USER} !"
 echo
 
 #Define an env var
-export COURSE_ID=DevOpsTheHardWay
+export COURSE_ID=__REPO_NAME__
 
 #Interact with ~/.token file
 if [[ -f "${HOME}/.token" ]]; then
