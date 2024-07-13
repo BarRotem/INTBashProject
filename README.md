@@ -92,3 +92,17 @@ Well Done! you've passed all tests
 [autotest_badge]: ../../actions/workflows/project_auto_testing.yaml/badge.svg?event=push
 [autotest_workflow]: ../../actions/workflows/project_auto_testing.yaml/
 [github_actions]: ../../actions
+
+# Added by Bar Rotem
+Just me messing around with README.md file  
+This is an unordered list :
+- Item 1
+- Item 2
+- Item 3
+
+You can bold something with the asterisk (*) symbol :  
+Go down one line  
+*bold text*
+Why doesnt this go down?  
+Oh its because MD needs 2 spaces to inforce a line break...  
+Okay, done playing for now.
