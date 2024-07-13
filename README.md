@@ -102,7 +102,7 @@ This is an unordered list :
 
 You can bold something with the asterisk (*) symbol :  
 Go down one line  
-*bold text*
+**bold text**
 Why doesnt this go down?  
 Oh its because MD needs 2 spaces to inforce a line break...  
 Okay, done playing for now.
